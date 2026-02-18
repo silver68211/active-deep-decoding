@@ -1,0 +1,24 @@
+BCH (31,11) Code: ML Simulation Results 
+Channel: AWGN 
+Modulation: BPSK 
+
+Eb/N0 (dB)   FER     error frames   total frames
+  0.00,   2.092e-01,    100,             478
+  0.50,   1.433e-01,    100,             698
+  1.00,   9.058e-02,    100,            1104
+  1.50,   5.432e-02,    100,            1841
+  2.00,   3.812e-02,    100,            2623
+  2.50,   1.873e-02,    100,            5338
+  3.00,   7.811e-03,    100,           12803
+  3.50,   3.139e-03,    100,           31858
+  4.00,   1.202e-03,    100,           83207
+  4.50,   3.868e-04,    100,          258505
+  5.00,   1.017e-04,    100,          983378
+  5.50,   1.646e-05,    100,         6074193
+
+Stefan Scholl, Florian Gensheimer and Michael Helmling 
+Microelectronic Systems Design Research Group, University of Kaiserslautern, Germany and Optimization Research Group, 
+University of Koblenz-Landau, Germany, 2017 
+
+This file was downloaded from: http://www.uni-kl.de/channel-codes/ 
+
